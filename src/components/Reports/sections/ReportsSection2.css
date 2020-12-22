@@ -1,0 +1,40 @@
+
+#rs2title-h{
+    color: rgb(52, 52, 202);
+    margin-left: 25px;
+}
+#rs2title-c{
+    color: rgb(24, 22, 99);
+    font-size: 20px;
+    margin-top: -8px;;
+}
+#rs2ctitle-c{
+    color: rgb(24, 22, 99);
+    font-size: 18px;
+    margin-top: -20px;;
+}
+#rs2demoa{
+    background-color: rgb(71, 71, 192);
+    font-size: 22px;
+    padding: 2%;
+    margin-left:30% ;
+}
+#rs2a{
+    height: 97%;
+    width: 100%;
+    margin-top: -4%;
+}
+#irs2c{
+    height: 70%;
+    width: 100%;
+}
+.rs2{
+    margin-top: 15%;
+}
+#rs2demob{
+    background-color: rgb(71, 71, 192);
+    font-size: 22px;
+    padding: 2%;
+    margin-top: 5%;
+    margin-left:35%;
+}

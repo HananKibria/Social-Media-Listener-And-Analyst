@@ -1,0 +1,20 @@
+
+.sentimg{
+    display: block;
+    margin: auto;
+    height: 70%;
+    width: 70%;
+}
+#s4content{
+    margin-top: 2%;
+    margin-left: 15%;
+    color: grey;
+    text-align: justify;
+}
+#s4link{
+    margin-top: 2%;
+    margin-left: 15%;
+    font-weight: bold;
+    color:black;
+    text-align: justify;
+}

@@ -1,0 +1,38 @@
+#ReportsSection3{
+    overflow: hidden;
+}
+#mh{
+    display: block;
+    margin: auto;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(52, 52, 202);
+}
+.rs3{
+    margin-top: 10%;
+}
+#lh{
+    margin-top: -3%;
+    font-size: 22px;
+    color: rgb(57, 63, 153);
+    font-weight: 600;
+}
+#lc{
+    margin-top: -2%;
+    color: rgb(59, 59, 163);
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 120%;
+}
+
+.srs3{
+    margin-left: 7%;
+    /* display: block;
+    margin: auto;
+    text-align: center; */
+}
+#logo{
+    height: 30%;
+    width: 27%;
+}

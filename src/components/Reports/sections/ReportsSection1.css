@@ -1,0 +1,11 @@
+.rs1{
+    margin: auto;
+}
+#rs1mtext{
+    color: wheat;
+}
+#rs1demo{
+    font-size: 160%;
+    background-color: rgb(71, 71, 192);
+    padding: 2%;
+}
